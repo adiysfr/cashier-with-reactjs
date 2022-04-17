@@ -1,5 +1,12 @@
 # Cashier Project Guide
 
+## Stack Project
+
+This project is built with several stacks:
+- react js
+- styled-component
+- redux
+- react hooks
 ## Available Scripts
 
 In the project Cashier Project directory, you can run:
